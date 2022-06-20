@@ -1,0 +1,671 @@
+ {
+   "items": [
+     {
+       "id": 1,
+       "name": "Эксклюзивный, Авторский ремонт! ЖК Изумрудный",
+       "price": "530 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/a0dy92ugnh5d1-UA/image;s=1000x700",
+       "address": {
+         "street": "Генерала Шаповала, 42",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.42840554773605,
+         "longitude": 30.478371698386354
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 2,
+       "name": "Хостел з БОМБОСХОВИЩЕМ! м. Золоті Ворота! Центр Києва!",
+       "price": "400 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/7u547jv6gx2w3-UA/image;s=600x600",
+       "address": {
+         "street": "ул. Пушкинская, 16",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.445852174802084,
+         "longitude": 30.518072872248997
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 3,
+       "name": "Аренда однокомнатной квартиры. Черновола, 27",
+       "price": "8 500 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://100realty.ua/sites/100realty.ua/files/users_foto/uid_118784/objects/376077719/f955d1969a458d8ec06bd5a849967e72.jpg",
+       "address": {
+         "street": "Проспект Победы, 67",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.45381028712507,
+         "longitude": 30.48515190023707
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 4,
+       "name": "Файна Таун. Нивки Парк. Сан Франциско.",
+       "price": "115 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/0j8hpouv996o2-UA/image;s=2000x1500",
+       "address": {
+         "street": "ул. Вячеслава Черновола 27",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.458169831653755,
+         "longitude": 30.40589688489428
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 5,
+       "name": "Продажа 2к ул. Глубочицкая 32в ЖК Покровский посад, Подол, Лукьяновка",
+       "price": "207 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/d3h6xdjx26p43-UA/image;s=3107x2071",
+       "address": {
+         "street": "ул. Глубочицкая 32в",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.4623185745803,
+         "longitude": 30.492987484894368
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 6,
+       "name": "Аренда студии звукозаписи / аренда студии для интервью / влога / блога",
+       "price": "400 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/jlg3rs71gfvy-UA/image;s=2048x1536",
+       "address": {
+         "street": "Улица Гоголевская",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.452416754906025,
+         "longitude": 30.494448383076
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 7,
+       "name": "Шикарная! 4к Новопечерские Липки Печерск Центр Дружбы Народов",
+       "price": "600 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eh397s6hpbx91-UA/image;s=1280x959",
+       "address": {
+         "street": "ул. Драгомирова, 15а",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.4085659945284,
+         "longitude": 30.54595960023592
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 8,
+       "name": "Аренда квартиры (евродвушка)",
+       "price": "9 000 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://img01.obyava.ua/classified/0/2088/3963/780-6bwkkp5xkawmm85l.jpg",
+       "address": {
+         "street": "ЖК Місто Квітів, вул. Тираспольська 47",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.48026505182715,
+         "longitude": 30.415873092841565
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 9,
+       "name": "Bидовая 4к квартира на б-ре Дружбы Народов, Печерский квартал",
+       "price": "600 000у.е.",
+       "status": "OPEN",
+       "imageUrl": "https://d1opu7v3g3cdvy.cloudfront.net/600x450/7050756036283b62d225cb4.09960188.webp",
+       "address": {
+         "street": "б-р Дружбы Народов 14-16",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.41425525630986,
+         "longitude": 30.53946962722169
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 10,
+       "name": "Аренда 2к квартиры Житомирская метро, Львовская, 22 Святошинский р-н.",
+       "price": "15 000 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/3ez25oim4s782-UA/image;s=1000x750",
+       "address": {
+         "street": "Львовская улица, 22",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.45496745915244,
+         "longitude": 30.37448316955132
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 11,
+       "name": "Продам 2 кім квартиру, центр, Покровський Посад ",
+       "price": "192 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/suaxeiuyjfch2-UA/image;s=1280x960",
+       "address": {
+         "street": "Глибочицька 32в ",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.46227076580071,
+         "longitude": 30.4929552984166
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 12,
+       "name": "Аренда офиса Глубочицкая, 40 / 85кв.м",
+       "price": "250 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/4gix4mbtwcmu-UA/image;s=200x0;q=50",
+       "address": {
+         "street": "Глубочицкая, 40 ",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.46165544750631,
+         "longitude": 30.49768208489432
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 13,
+       "name": "Продажа 3к квартиры (117 м2) в доме по ул.Лейпцигская 13а",
+       "price": "500 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/1ic7lx1uxkum1-UA/image;s=1080x706",
+       "address": {
+         "street": "ул.Лейпцигская 13а",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.4316362360783,
+         "longitude": 30.549584856057837
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 14,
+       "name": "PARK AVENUE Penthouse 92метра 3-х комнатная Демеевская .Голосеевская",
+       "price": "506 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://parkave.com.ua/uploads/catalog/cover/cover_fcc325de601946528596cd7b8996601c.jpg",
+       "address": {
+         "street": "вулиця Деміївська, буд. 29",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.40262611766876,
+         "longitude": 30.51040448304268
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 15,
+       "name": "Продам дизайнерскую 1к, ЖК  52Жемчужина Печерск, Липки",
+       "price": "210 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/oecjatn3zr9g1-UA/image;s=1400x1176",
+       "address": {
+         "street": " Бойчука 17",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.412847166882514,
+         "longitude": 30.549857240714438
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 16,
+       "name": "Продам 3-к 200м на Кропивницкого 10, Центр, Крещатик, Бессарабская пл.",
+       "price": "590 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/lo5hfd1jlna72-UA/image;s=200x0;q=50",
+       "address": {
+         "street": " Кропивницкого 10",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.441226798837455,
+         "longitude": 30.524318184893804
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 17,
+       "name": "Без% Оренда 3 кімн. квартири ЖК Французьский квартал",
+       "price": "42 000 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://cdn.riastatic.com/photos/dom/photo/18108/1810809/181080911/181080911xg.jpg",
+       "address": {
+         "street": "улица Академика Филатова",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.415880275692786,
+         "longitude": 30.531441967700264
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 18,
+       "name": "Продажа 5-комн. квартиры на ул. Волошской, 51/27, Подол, без комисс.",
+       "price": "600 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/eg5uoqh74m4k3-UA/image;s=1252x939",
+       "address": {
+         "street": "ул. Волошская, 51/27",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.47208024696717,
+         "longitude": 30.511466098387498
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 19,
+       "name": "Собственник! Черновола Шевченковский Центр Лукьяновская Без комиссии!",
+       "price": "24 000 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://befrently.com/img/apartment/d13f3e4f47f7e25bacec873a71a0f06e/2949.jpg",
+       "address": {
+         "street": "ул. Черновола, 68",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.4589037430143,
+         "longitude": 30.486732972945926
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 20,
+       "name": "Посуточно 2 ком.  Новострой Люкс/м.Вокзальная м.Университ",
+       "price": "799 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://dobaua.s3.eu-central-1.amazonaws.com/resize_cache/1190818/8fae455cdc923979fcf5ee108d41f859/iblock/534/534158d157ea65d10b6c45a80350edc2/F3983544_A4F6_460E_8842_6444FCE5E672.webp",
+       "address": {
+         "street": "ул. Жилянская 118",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.441933730084166,
+         "longitude": 30.496621940715237
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 21,
+       "name": "ЖК Podil Plaza Глубочицкая 73 студия 37 кв.м Видовая",
+       "price": " 110 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/r43tu9o500oi-UA/image;s=200x0;q=50",
+       "address": {
+         "street": "ул. Глубочицкая 73",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.46336533247443,
+         "longitude": 30.5040766867444
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 22,
+       "name": "Квартиры VIP уровня, ЖК Chicago, центр, м Олимпийская ",
+       "price": "4 450 грн.",
+       "status": "OPEN",
+       "imageUrl": "https://cdn.riastatic.com/photos/dom/photo/17618/1761870/176187082/176187082xg.jpg",
+       "address": {
+         "street": "вул. Антоновича, 44",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.433919365491704,
+         "longitude": 30.513280142565197
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     },
+     {
+       "id": 23,
+       "name": "БЕЗ комиссии: 2-комнатная квартира-мечта в элитном ЖК PecherSKY",
+       "price": "350 000 $",
+       "status": "OPEN",
+       "imageUrl": "https://ireland.apollo.olxcdn.com/v1/files/wmxjwi7wrnbk-UA/image;s=1280x853",
+       "address": {
+         "street": "вулиця Болсуновська, 2",
+         "city": "Kiev",
+
+         "zip": null,
+         "countryId": 803,
+         "country": "Ukraine"
+       },
+
+       "gps": {
+         "latitude": 50.42209699919371,
+         "longitude": 30.552716890169684
+       },
+       "dateOpened": "2019-12-20",
+       "stallCount": 6,
+       "counted": true,
+       "elevationMeters": 42,
+       "powerKilowatt": 120,
+       "solarCanopy": false,
+       "battery": false,
+       "statusDays": 0,
+       "urlDiscuss": false
+     }
+   ]
+ }

@@ -1,0 +1,163 @@
+.filter-wrapper {
+    max-height: 126px;
+    position: relative;
+    background-color: #2C353A;
+    border-top: 4px solid #2678c9;
+    top: 0;
+    padding: 12px;
+    z-index: 20;
+}
+
+.filter-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 58px;
+}
+
+form {
+    border-radius: 10px;
+    padding: 4px;
+    background: #3072ac;
+    display: block;
+    position: relative;
+    right: 255px;
+    width: 1188px;
+}
+form:hover{
+    background: #1e5585;
+}
+
+   .input {
+    padding: 6px 61px;
+    width: 303px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    height: 49px;
+    margin-left: -37px;
+}
+
+.divider-1 {
+    position: absolute;
+    left: 298px;
+    height: 32px;
+    top: 14px;
+    width: 2px;
+    background: rgba(0,0,0,.2);
+    z-index: 2;
+}
+
+  .btn-search {
+    height: 100%;
+    border-radius: 0 10px 10px 0;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #e8eff0;
+    background-color: transparent;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: -30px;
+}
+
+.img-cont{
+    display: block;
+   
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+    z-index: 4;
+    background-color: transparent;
+}
+
+.col-sm1 {
+    min-height: 49px;
+    max-height: 49px;
+    background-color: white;
+    width: 195px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 48px;
+    color: grey;
+    cursor: pointer;
+}
+.col-sm2 {
+    min-height: 49px;
+    background-color: white;
+     width: 401px;
+    text-align: center;
+    line-height: 48px;
+}
+
+.filter-jpg {
+    z-index: 6;
+    overflow: hidden;
+    vertical-align: middle;
+    opacity: 0.7;
+    margin-right: 18px;
+}
+
+.divider-2 {
+    position: absolute;
+    left: 532px;
+    height: 33px;
+    top: 14px;
+    width: 2px;
+    background: rgba(0,0,0,.2);
+    z-index: 2;
+}
+#date {
+    border:none;
+    cursor: pointer;
+    width: 90%;
+    text-align: center;
+}
+
+.svg-date {
+    position: relative;
+    opacity: 0.4;
+    color: grey;
+    left: 103px;
+    top: -2px;
+    cursor: pointer;
+}
+.divider-3 {
+    position: absolute;
+    right: 311px;
+    height: 33px;
+    top: 14px;
+    width: 2px;
+    background: rgba(0,0,0,.2);
+    z-index: 2;
+}
+
+  .input-search {
+    padding: 12px 61px 12px 0;
+    width: 257px;
+    border: none;
+    height: 49px;
+    margin-left: 36px;
+    background-color: white;
+    text-align: left;
+    cursor: pointer;
+}
+.svg-map {
+    overflow: hidden;
+    opacity: 0.4;
+    position: relative;
+    left: -22px;
+    top: -2px;
+}
+
+.col-sm3 {
+    min-height: 49px;
+    background-color: white;
+    width: 201px;
+    text-align: center;
+    line-height: 48px;
+    color: grey;
+    cursor: pointer;
+}
