@@ -17,7 +17,7 @@ export const Filter = () => {
         <div>
           <form
             onSubmit={() => console.log("hello")}
-            className="filter-content"
+            className="filter-content "
           >
             <img
               className="img-cont"

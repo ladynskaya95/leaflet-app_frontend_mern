@@ -1,8 +1,12 @@
 import React from 'react'
 
+import AppContext from "../../AppContext"
+
 import "./header.css";
 
  const Header = () => {
+  const { setModalActive, setLoginActive} = React.useContext(AppContext)
+
   return (
     <div className="head-wrapper">
       <div className="content">
@@ -13,7 +17,12 @@ import "./header.css";
           </p>
         </div>
         <div className="column-center">
-          <button className="btn-orange">Здати в оренду</button>
+          <button
+            className="btn-orange open-btn"
+            onClick={() => setModalActive(true)}
+          >
+            Здати в оренду
+          </button>
           <svg
             className="svg-plus"
             width="15"
@@ -34,7 +43,10 @@ import "./header.css";
         </div>
         <div className="column-right">
           <span className="login-wr">
-            <p className="login"> Увійти</p>
+            <p onClick={() => setLoginActive(true)} className="login">
+             
+              Увійти
+            </p>
             <svg
               className="svg-login"
               xmlns="http://www.w3.org/2000/svg"

@@ -1,33 +1,80 @@
 import React from "react";
 import { useMapEvents, TileLayer, LayersControl } from "react-leaflet";
+import L from "leaflet"
 
-const Layers = ({position}) => {
+
+const Layers = ({position, markers}) => {
   const [geo, setGeo] = React.useState({});
   const [zoom, setZoom] = React.useState(13);
   const [bounds, setBounds] = React.useState(null);
+  const [marker, setMarker] = React.useState({});
 
   const map = useMapEvents({
     zoomend: () => {
       setGeo(map.getBounds());
-       
     },
   });
   console.log(geo);
-//       const  visibles = {};
-//         for (let i=0; i <items.length; i++) {
-//             if (map.getBounds().contains(items[i].gps)) {
-//                 visibles[i] = items[i];
-//             }
-//         }
-//         console.log(visibles)
+
+  // let h = markers.filter((key) =>
+  //   map
+  //     .latLngBounds([
+  //       [geo._southWest.LatLng.lat, geo._southWest.LatLng.lng],
+  //       [geo._northEast.LatLng.lat, geo._northEast.LatLng.lng],
+  //     ])
+  //     .contains([
+  //       markers[key].gps.latitude,
+  //       markers[key].gps.longitude,
+  //     ])
+  // );
+  // console.log(h)
+
+  // let m = geo.latLngBounds().contains(position);
+  // console.log(m)
+
+  // const  visibles = {};
+  //   for (let i=0; i <markers.length; i++) {
+  //       if (map.getBounds().contains(markers[i].gps)) {
+  //           visibles[i] = markers[i];
+  //       }
+  //   }
+  //   console.log(visibles)
 
 
-    React.useEffect(() => {
-      if (map) {
-        const contains = map.getBounds().contains(position);
-        console.log("contains:: ", contains);
-      }
-    }, [position, map]);
+  // const getLt = markers[1].getLatLng();
+  // console.log(getLt);
+
+  //   React.useEffect(() => {
+  // const visibles = {};
+  //     if (map ) {
+  //       for (let i = 0; i < markers.length; i++) {
+  //         if (map.getBounds().contains(markers[i].gps)) {
+  //           visibles[i] = markers[i];
+  //         }
+  //       }
+  //       console.log(visibles);
+  //     }
+  //   },[map, markers] );
+
+  //  const rtt = map.getBounds().contains(pos);
+  //  console.log(rtt);
+  // React.useEffect(() => {
+
+  //   if (map ) {
+  //     const rtt = map.getBounds().contains(pos);
+  //     console.log(rtt);
+  //   }
+  // }, );
+
+  // const rtt = map.getBounds().contains(markers)
+  // console.log(rtt)
+
+  // React.useEffect(() => {
+  //   if (map) {
+  //     const contains = map.getBounds().contains(position);
+  //     console.log("contains:: ", contains);
+  //   }
+  // }, [position, map]);
 
   function updateMap() {
     const b = map.getBounds();

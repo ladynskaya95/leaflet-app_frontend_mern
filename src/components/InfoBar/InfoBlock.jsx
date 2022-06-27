@@ -1,6 +1,8 @@
 import React from 'react'
 
+
 const InfoBlock = ({ name, id, price, imageUrl, street }) => {
+
 
   return (
     <div className="adsInf">

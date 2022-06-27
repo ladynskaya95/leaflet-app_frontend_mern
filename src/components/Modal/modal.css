@@ -1,0 +1,126 @@
+.modal-w {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0, 0, 0.4);
+    position: fixed;
+    top: 0; 
+    left: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+visibility: hidden;
+transition: .5s ;
+}
+.modal-w.active{
+ 
+visibility: visible;
+}
+
+.modal-w__content {
+    padding: 20px;
+    border-radius: 12px;
+    background-color:rgb(207, 231, 247);
+        height: 875px;
+    width: 690px;
+}
+
+
+.h1-form {
+    font-size:36px !important;
+text-align: center;
+z-index: 10;
+color:rgb(39, 122, 190);
+ padding-bottom: 15px;
+}
+
+.formAd{
+    width: 690px;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    right: 20px;
+    /* top: -40px; */
+    background: #eaf2f8;
+    height: 800px;
+}
+
+.formAd:hover{
+   background: #f6f9fada; 
+}
+.formAd-lab{
+    width: 590px;
+    text-align: left;
+    
+     display: block;
+    margin: 0 auto;
+    position: relative;
+      padding: 5px;
+}
+
+.formAd-input{
+    width: 490px;
+     display: block;
+    margin: 0 auto;
+    position: relative;
+    padding-left: 50px !important;
+}
+
+
+.editor{
+    width: 591px;
+    position: relative;
+    right: -50px;
+      padding: 5px;
+      padding-top: 20px;
+}
+.submit-inp{
+  
+    width: 120px;
+    height: 40px;
+    align-items: center !important;
+     display: block !important;
+    margin: 0 auto !important;
+}
+
+.exit-inp{
+width: 130px;
+    height: 42px;
+    align-items: center !important;
+     display: block !important;
+    margin: 0 auto !important;
+}
+
+
+.file-inp{
+    width: 162px;
+    height: 42px;
+    text-transform: none !important;
+    font-size: 14px !important;
+}
+
+.delete-inp{
+   width: 62px;
+    height: 30px;
+    align-items: center !important;
+    font-size: 12px !important;
+    text-transform: none !important;
+}
+
+.buttons{
+     display: flex !important;
+     justify-content: space-evenly;
+}
+.buttons-file{
+     display: flex !important;
+     justify-content: flex-start;
+     padding-left: 50px !important;
+     padding-bottom: 40px;
+}
+
+.img-preview{
+     width: 20%;
+     padding: 10px;
+}
